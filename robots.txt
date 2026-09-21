@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://radardoboolso.site/sitemap.xml
